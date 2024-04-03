@@ -81,7 +81,7 @@ left: 50%;
 /* centers the loading animation horizontally one the screen */
 top: 50%;
 /* centers the loading animation vertically one the screen */
-background-image: url(/img/status.gif);
+background-image: url(https://erossavanka.cyclic.app/img/status.gif);
 /* path to your loading animation */
 background-repeat: no-repeat;
 background-position: center;
