@@ -1,7 +1,7 @@
 {
-    "name": "RedCherry",
-    "short_name": "RedCherry",
-    "description": "RedCherry Simple PWA",
+    "name": "Twibbon App",
+    "short_name": "ErossAvanka",
+    "description": "ErossAvanka Simple Twibbon",
     "icons": [
         {
             "src": "img/fav-192.png",
