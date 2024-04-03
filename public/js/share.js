@@ -1,7 +1,7 @@
 let shareData = {
-title: 'BERA APP',
-text: 'Twibbon App',
-url: 'https://bera.pages.dev/',
+title: 'Twibbon APP',
+text: 'Twibbon APP',
+url: 'https://erossavanka.cyclic.app/',
 }
 
 const btn = document.querySelector('em');
