@@ -11,9 +11,6 @@ body {
         padding: 2em;
         background-color: #fdfdff;
     }
-    footer {
-            margin:0 auto 2em auto;
-    }
     a:link, a:visited {
       /*  color: #38488f; */
         text-decoration: none;
