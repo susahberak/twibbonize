@@ -7,6 +7,7 @@ overscroll-behavior: none;
 canvas {
 width: 100%;
 height: auto;
+border-radius: 0.5em;
 }
 
 /* IMAGE */
@@ -15,6 +16,7 @@ width: 100%;
 height: auto;
 top: 0px;
 left: 0px;
+border-radius: 0.5em;
 }
 
 /* COPY PASTE */
