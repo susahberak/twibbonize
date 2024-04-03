@@ -1,0 +1,13 @@
+/* CANVAS */
+canvas {
+width: 100%;
+height: auto;
+}
+
+/* IMAGE */
+img {
+width: 100%;
+height: auto;
+top: 0px;
+left: 0px;
+}
