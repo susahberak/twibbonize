@@ -1,0 +1,25 @@
+{
+"profilePictureName": "twibbon.png", 
+"overlaySource": "assets/img/twibbon/image.png", 
+"backgroundColor": "#e7e7e7", 
+"rootElementId": "app", 
+"logoSources": [
+"",
+"",
+"",
+"",
+""
+],
+"messages": {
+"status": {
+"startup": "Pilih foto terbaik Anda.", 
+"uploading": "File sedang diimpor, harap tunggu...", 
+"processing": "File sedang diproses, harap tunggu...", 
+"done": "Twibbon berhasil dibuat!"
+}, 
+"buttons": {
+"download": "DOWNLOAD", 
+"newImage": "HAPUS"
+}
+}
+}
