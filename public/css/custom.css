@@ -1,3 +1,8 @@
+html {
+overflow: hidden;
+overscroll-behavior: none; 
+}
+
 /* CANVAS */
 canvas {
 width: 100%;
