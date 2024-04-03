@@ -11,9 +11,9 @@ if (isMobile) {
 } else {
   document.write("not mobile |");
 }
-document.write("<span> |");
+document.write("<span> ");
 document.write(match);
-document.write("<span> |");
+document.write("<span> ");
 
 var sBrowser,
   sUsrAg = navigator.userAgent;
