@@ -1,6 +1,6 @@
 # Twibbon App
 
-Ini adalah situs web tempat Anda dapat menambahkan foto ke bingkai. Pilih foto terbaik Anda.
+Ini adalah situs web tempat Anda dapat menambahkan foto ke bingkai.
 
 ## Deploy in under 10 seconds
 
