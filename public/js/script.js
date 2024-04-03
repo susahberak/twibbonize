@@ -7,9 +7,9 @@ const match = navigator.userAgent.match(
 );
 
 if (isMobile) {
-  document.write("is mobile |");
+  document.write("Is Mobile |");
 } else {
-  document.write("not mobile |");
+  document.write("Not Mobile |");
 }
 document.write("<span> ");
 document.write(match);
@@ -45,4 +45,4 @@ if (sUsrAg.indexOf("Firefox") > -1) {
   sBrowser = "unknown";
 }
 
-document.write("|" + sBrowser);
+document.write("| " + sBrowser);
