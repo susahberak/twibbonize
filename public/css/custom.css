@@ -183,9 +183,9 @@ blockquote p {
   border-radius: 5px;
 }
 blockquote p::before {
-  content: '\201C';
+  content: '\275D';
 }
 blockquote p::after {
-  content: '\201D';
+  content: '\275E';
 }
 
