@@ -13,8 +13,8 @@ body {
     }
     footer {
         width: 600px;
-        margin: 0;
-        padding: 0;
+        margin: 2em auto;
+        padding: 2em;
     }
     a:link, a:visited {
       /*  color: #38488f; */
