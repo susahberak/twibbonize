@@ -1,7 +1,7 @@
 let config;
 
 addEventListener('load', function() {  
-const request = new Request('config/config.json');
+const request = new Request('/config/config.json');
   
 fetch(request)
 .then(response => {
