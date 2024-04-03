@@ -1,7 +1,7 @@
 let shareData = {
 title: 'Twibbon APP',
 text: 'Twibbon APP',
-url: 'https://erossavanka.cyclic.app/',
+url: 'https://vercel.cyclic.app/',
 }
 
 const btn = document.querySelector('em');
