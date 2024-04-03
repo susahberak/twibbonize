@@ -45,4 +45,4 @@ if (sUsrAg.indexOf("Firefox") > -1) {
   sBrowser = "unknown";
 }
 
-document.write("" + sBrowser);
+document.write("" + | sBrowser);
