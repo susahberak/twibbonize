@@ -191,3 +191,7 @@ blockquote p::after {
   content: '\275E';
 }
 
+/* Font */
+small {
+  font-size: smaller;
+}
